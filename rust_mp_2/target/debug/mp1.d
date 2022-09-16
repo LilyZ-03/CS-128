@@ -1,0 +1,1 @@
+/home/vagrant/src/rust_mp_2/target/debug/mp1: /home/vagrant/src/rust_mp_2/src/hangman/error.rs /home/vagrant/src/rust_mp_2/src/hangman/game.rs /home/vagrant/src/rust_mp_2/src/hangman/mod.rs /home/vagrant/src/rust_mp_2/src/lib.rs /home/vagrant/src/rust_mp_2/src/main.rs /home/vagrant/src/rust_mp_2/src/opt.rs /home/vagrant/src/rust_mp_2/src/runner.rs

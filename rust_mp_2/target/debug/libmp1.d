@@ -1,0 +1,1 @@
+/home/vagrant/src/rust_mp_2/target/debug/libmp1.rlib: /home/vagrant/src/rust_mp_2/src/hangman/error.rs /home/vagrant/src/rust_mp_2/src/hangman/game.rs /home/vagrant/src/rust_mp_2/src/hangman/mod.rs /home/vagrant/src/rust_mp_2/src/lib.rs
